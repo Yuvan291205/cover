@@ -143,9 +143,8 @@ Publish the website in the given URL.
 
 
 ## OUTPUT:
-![Screenshot(39).png](Screenshot(39).png)
+![Untitled](https://github.com/Yuvan291205/cover/assets/138849170/2e42e820-2157-40dd-9c9d-87871c7859b9)
 
-## HTML VALIDATOR:
 
 
 ## RESULT:
